@@ -1,2 +1,3 @@
 # React
-React Practices
+React Practices by Sohil Jain
+
